@@ -69,7 +69,4 @@ public class Person {
     public void changeCar(Car car){
         this.car = car;
     }
-
-
-
 }
